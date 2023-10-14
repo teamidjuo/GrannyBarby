@@ -1,0 +1,28 @@
+{
+  "max_count_ads": "15",
+
+  "our_ads1_activation":"false",
+  "our_ads1_image_url":"https://raw.githubusercontent.com/teamIdjuo/GrannyBarby/main/333.png",
+  "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.startgames.escape.barry.prison.obby.jailbreak",
+
+  "our_ads2_activation":"false",
+  "our_ads2_image_url":"https://raw.githubusercontent.com/teamIdjuo/GrannyBarby/main/111.png",
+  "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.MafiaGangster.MCPETheft.Craft",
+
+  "our_ads3_activation":"false",
+  "our_ads3_image_url":"https://raw.githubusercontent.com/teamIdjuo/GrannyBarby/main/444.png",
+  "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.gta_craft_theft_auto_mod.v_mcpe_squad_gtav",
+
+  "admob_app_id": "",
+  "admob_banner": "",
+  "admob_interstitial": "",
+
+  "unity_app_id": "",
+  "unity_banner": "",
+  "unity_interstitial": "",
+
+  "appLovin_app_id": "",
+  "appLovin_banner": "e8fc70da060f8055",
+  "appLovin_interstitial": "dca5f4121a8162a6"
+  
+}
