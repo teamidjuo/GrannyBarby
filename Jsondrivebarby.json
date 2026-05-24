@@ -1,5 +1,5 @@
 {
-  "max_count_ads": "15",
+  "max_count_ads": "20",
 
   "our_ads1_activation":"true",
   "our_ads1_image_url":"https://raw.githubusercontent.com/teamidjuo/GrannySponge/refs/heads/main/RatDance%2002.png",
@@ -23,7 +23,25 @@
 
   "appLovin_app_id": "3SatniGF1C6AIhT2W8V7iPaqnB03RK8n783ZKJMrCdzAltrQxklF19RswAIfcUAFlGHHdWq8JIm6XEbCt_xW9i",
   "appLovin_banner": "bb6330435ec6b2a5",
-  "appLovin_interstitial": "ba6d473f8a0d66bb"
+  "appLovin_interstitial": "ba6d473f8a0d66bb",
+
+  "gameplay_ads_mode": "aggressive",
+"min_time_before_gameplay_ads": "60",
+"min_deaths_before_ads": "2",
+
+"use_mediation": "false",
+
+"max_percentage": "70",
+"admob_percentage": "30",
+
+"applovin_activation": "true",
+"unity_activation": "false",
+"admob_activation": "true",
+
+"applovin_percentage": "50",
+"unity_percentage": "0",
+"admob_percentage_non_mediation": "50"
+
 
   
 }
