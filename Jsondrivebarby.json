@@ -1,9 +1,9 @@
 {
   "max_count_ads": "15",
 
-  "our_ads1_activation":"false",
-  "our_ads1_image_url":"https://raw.githubusercontent.com/teamidjuo/GrannySponge/refs/heads/main/RatDance%2002.png",
-  "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.Rat.Dance.ParkourChallenge",
+  "our_ads1_activation":"true",
+  "our_ads1_image_url":"https://raw.githubusercontent.com/teamidjuo/GrannyBarby/refs/heads/main/GrannyPolice1.png",
+  "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.horrordev99.EscapePoliceGrannyPrison",
 
   "our_ads2_activation":"true",
   "our_ads2_image_url":"https://raw.githubusercontent.com/teamidjuo/GrannyBarby/refs/heads/main/GrannyPoliceAd3.png",
